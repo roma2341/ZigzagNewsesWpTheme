@@ -67,7 +67,7 @@ else
               </div>
           </div>
             <div class="mg-menu-full">
-                <nav class="navbar navbar-expand-lg navbar-wp">
+                <nav class="navbar navbar-dark navbar-expand-lg navbar-wp">
                     <div class="container">
                         <!-- Right nav -->
                     <div class="m-header align-items-center">
